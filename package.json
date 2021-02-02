@@ -1,0 +1,19 @@
+{
+  "name": "untitled1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "amazon-mws": "^0.0.27",
+    "aws-sdk": "^2.644.0",
+    "aws-xray-sdk": "^3.0.1",
+    "lodash": "^4.17.15",
+    "request": "^2.88.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
